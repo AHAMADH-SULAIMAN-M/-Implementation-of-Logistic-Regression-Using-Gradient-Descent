@@ -1,4 +1,4 @@
-<img width="1361" height="546" alt="image" src="https://github.com/user-attachments/assets/18b24e01-0514-4b38-8af6-6e491a53e2b2" /># Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
